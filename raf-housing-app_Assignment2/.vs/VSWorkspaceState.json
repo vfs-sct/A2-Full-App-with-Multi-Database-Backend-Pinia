@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\frontend",
+    "\\frontend\\src",
+    "\\frontend\\src\\assets",
+    "\\frontend\\src\\components",
+    "\\frontend\\src\\router",
+    "\\frontend\\src\\stores",
+    "\\frontend\\src\\views"
+  ],
+  "SelectedNode": "\\frontend\\src\\views\\LandingPage.vue",
+  "PreviewInSolutionExplorer": false
+}
